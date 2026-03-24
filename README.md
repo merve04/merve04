@@ -4,9 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merve04&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=merve04&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
 <!--
 **merve04/merve04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
