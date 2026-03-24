@@ -6,7 +6,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=merve04&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>## Hi there 👋
+</p>
 
 <!--
 **merve04/merve04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
